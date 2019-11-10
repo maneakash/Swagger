@@ -13116,11 +13116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Swagger-CoreAPI\\Library.API\\Sample.API.csproj",
+      "projectUniqueName": "C:\\Projects\\Swagger\\Library.API\\Sample.API.csproj",
       "projectName": "Sample.API",
-      "projectPath": "C:\\Projects\\Swagger-CoreAPI\\Library.API\\Sample.API.csproj",
+      "projectPath": "C:\\Projects\\Swagger\\Library.API\\Sample.API.csproj",
       "packagesPath": "C:\\Users\\akash.mane\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Swagger-CoreAPI\\Library.API\\obj\\",
+      "outputPath": "C:\\Projects\\Swagger\\Library.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
