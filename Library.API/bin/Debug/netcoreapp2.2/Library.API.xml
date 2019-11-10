@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.API</name>
+    </assembly>
+    <members>
+        <member name="M:Library.API.Controllers.OrderController.Get">
+            <summary>
+            Get all orders
+            </summary>
+            <returns>List of orders</returns>
+        </member>
+        <member name="M:Library.API.Controllers.OrderController.Get(System.Int32)">
+            <summary>
+            Get order by id
+            </summary>
+            <param name="id">Order Id</param>
+            <returns>Filtered order object</returns>
+        </member>
+        <member name="M:Library.API.Controllers.OrderController.Post(Library.API.Models.Order)">
+            <summary>
+            Create new order
+            </summary>
+            <param name="order"></param>
+            <returns> HttpResponseMessage</returns>
+        </member>
+        <member name="M:Library.API.Controllers.ValuesController.Get">
+            <summary>
+            Get all values
+            </summary>
+            <returns> An List of string</returns>
+        </member>
+        <member name="T:Library.API.Models.Order">
+            <summary>
+            The Order 
+            </summary>
+        </member>
+        <member name="P:Library.API.Models.Order.OrderId">
+            <summary>
+            The Order id
+            </summary>
+        </member>
+        <member name="P:Library.API.Models.Order.Status">
+            <summary>
+            The Order Status
+            </summary>
+        </member>
+        <member name="P:Library.API.Models.Order.UserId">
+            <summary>
+            User Id
+            </summary>
+        </member>
+        <member name="P:Library.API.Models.Order.TotalAmount">
+            <summary>
+            Total order amount
+            </summary>
+        </member>
+        <member name="P:Library.API.Models.Order.AmountPayable">
+            <summary>
+            Final payble amount after discount
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.csproj.CoreCompileInputs.cache
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.RazorAssemblyInfo.cache
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.RazorAssemblyInfo.cs
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.AssemblyInfoInputs.cache
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.AssemblyInfo.cs
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.deps.json
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.runtimeconfig.json
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.runtimeconfig.dev.json
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.dll
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.pdb
+C:\Projects\Swagger-CoreAPI\Library.API\bin\Debug\netcoreapp2.2\Sample.API.xml
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.RazorTargetAssemblyInfo.cache
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.dll
+C:\Projects\Swagger-CoreAPI\Library.API\obj\Debug\netcoreapp2.2\Sample.API.pdb
