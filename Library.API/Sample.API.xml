@@ -24,6 +24,12 @@
             <param name="order"></param>
             <returns> HttpResponseMessage</returns>
         </member>
+        <member name="M:Sample.API.Controllers.OrderV2Controller.Get">
+            <summary>
+            Get all orders
+            </summary>
+            <returns>List of orders</returns>
+        </member>
         <member name="M:Sample.API.Controllers.ValuesController.Get">
             <summary>
             Get all values
