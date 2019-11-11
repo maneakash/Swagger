@@ -7,8 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Sample.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
+    [ApiExplorerSettings(GroupName = "OrderOpenApiSpecification")]
     public class OrderController : ControllerBase
     {
         readonly IOrderService _orderService;
@@ -23,7 +24,7 @@ namespace Sample.API.Controllers
         /// </summary>
         /// <returns>List of orders</returns>
         [HttpGet]
-        public List<Order> Get()
+        public  List<Order> Get()
         {
             return _orderService.GetOrder();
         }

@@ -8,7 +8,7 @@ namespace Sample.API.Services
 {
     class OrderService : IOrderService
     {
-        List<Order> Orders;
+        readonly List<Order> Orders;
 
 
         public OrderService()
